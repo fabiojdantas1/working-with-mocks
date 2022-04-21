@@ -1,4 +1,4 @@
-# Working with Mocks
+# Working with mocks
 
 Working with mocks to convert txt file to json file and validate resources without Frameworks.
 
